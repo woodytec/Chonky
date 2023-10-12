@@ -80,7 +80,7 @@
     "deepmerge": "^4.2.2",
     "exact-trie": "^1.0.13",
     "fast-sort": "^2.2.0",
-    "filesize": "^6.1.0",
+    "filesize": "^10.0.5",
     "fuzzy-search": "^3.2.1",
     "hotkeys-js": "^3.8.3",
     "react-dnd": "11",
